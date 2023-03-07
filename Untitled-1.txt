@@ -1,0 +1,19 @@
+Task 2:
+
+Use your answers from the practical Week 2 sheet to complete this task. 
+Create 3 HTML pages. 
+
+2.1	Each page includes the following links and is connected to each other:
+Home
+About us
+Contact us
+
+
+2.2	Home page contains:
+Introduction/abstract for your Website.
+Images.
+
+
+2.3	“About Us” page contains:
+Information about (Module Name, Year)
+A Table similar to the following exactly (Bold header, alignment, number of columns, your group pictures (optional) or any pictures)
